@@ -1,10 +1,7 @@
 ## Hi there 👋 &nbsp; ![visitors](https://vbr.nathanchung.dev/badge?page_id=phuaab&color=00cf00)
 
-![timestamp](https://img.shields.io/badge/dynamic/json?url=https://api.yourservice.com/last-update.json&label=Last%20Update)
 
-*Last manually updated:* `<!-- AUTO_UPDATE_TIME -->`
-
-*Last manually updated:* `2025-08-01` <!-- TODO: automate this --> 
+*Last manually updated:* `2025-08-01` <!-- change this everytime revised--> 
 
 <!--
 **phuaab/phuaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,10 +44,17 @@ Here are some ideas to get you started:
 </table> -->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
+- 🖥 Nanomaterials & Chemical Engineer | PhD in Nanoscience​
 - 💼 𝙿𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝙰𝙸 𝙿𝙴 [<img src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.png?raw=true" height="30em" align="center" alt="PyTorch" title="PyTorch"/>](https://github.com/pytorch/pytorch) 𝚊𝚝 [<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="Meta" title="Meta"/>](https://github.com/facebook)
 - 💜 [𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/CharaChorder) 𝚊𝚝 [CharaChorder <img src="https://avatars.githubusercontent.com/u/103693671?s=200&v=4" height="30em" align="center" alt="CharaChorder Logo" title="CharaChorder Logo"/>](https://CharaChorder.com)
-- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸𝟺
+- 🎓 Bachelor of Chemical & Biomedical Engineering from University of Missouri-Columbia, Class 2017
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
 - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
+## Social 
+
+| Platform                               | -                                                                                                                         |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [Twitter](https://x.com/luoleiorg)     | ![Twitter Followers](https://badge.is26.com/twitter)                                                                      |
+| [YouTube](https://zuoluo.tv/youtube)   | ![YouTube Subscribers](https://badge.is26.com/youtube-subscribers) ![YouTube Views](https://badge.is26.com/youtube-views) |
+| [Bilibili](https://zuoluo.tv/bilibili) | ![哔哩哔哩](https://badge.is26.com/bilibili)      
