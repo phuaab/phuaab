@@ -3,6 +3,9 @@
 
 *Last manually updated:* `2025-08-04` <!-- change this everytime revised--> 
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuaab)		 -->
+
+
 <!--
 **phuaab/phuaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
