@@ -54,11 +54,18 @@ Click **[📝 HERE](https://github.com/phuaab/phuaab/blob/main/CV_Peng_Hua_HKUST
 - 📷 Content creater on [Bilibili](https://space.bilibili.com/1486916456?spm_id_from=333.1387.0.0). Passionate about photography
 - 🏂 Hobbies: snowboarding, archery, jogging, scuba diving, hiking
 - 🌄 Hiking Safety Ambassador, certified by Civil Aid Service Hong Kong
-- 🤿 SSI® Open Water Diver licensed, certified at Columbia, USA
+- 🤿 SSI® Specialty Cave Diver licensed, certified at Columbia, USA
 - 📫 E-mail: phuaab@connect.ust.hk
 
 
-## Work Experience
+## Research Experiences
+
+- Sep 2020 - Present: PhD research in microscopic kinetics (MD, FEM simluation), photolithography / Open to new opportunities
+- Sep 2021 - Jul 2021: Master research in calcium carbonate nucleation, HKUST, Hong Kong 
+- Sep 2018 - Jul 2020: Undergraduate research in machine learning assisted discovery in porous carbon, MO, USA
+- Aug 2018 - Aug 2019: Undergraduate honor research in advanced cathod materials for lithium-ion batteries, MO, USA
+- Jul 2015 - Jun 2016: Software developer at PHIANS, Shenzhen, China
+
 
 
 ## Connect
