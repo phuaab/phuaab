@@ -48,17 +48,22 @@ Click **[📝 HERE](https://github.com/phuaab/phuaab/blob/main/CV_Peng_Hua_HKUST
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - ⌨️ Nanomaterials & Chemical Engineer | PhD in Nanoscience​ & Technology
-- 💼   
-- 🎬 Content creater on Bilibili
-- 💜 [𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/CharaChorder) 𝚊𝚝 [CharaChorder <img src="https://avatars.githubusercontent.com/u/103693671?s=200&v=4" height="30em" align="center" alt="CharaChorder Logo" title="CharaChorder Logo"/>](https://CharaChorder.com)
+- 💼 Currently PhD in Hong Kong University of Science and Technology (HKUST)
+- 🎓 Master of Chemical & Biological Engineering from HKUST, Class 2020
 - 🎓 Bachelor of Chemical & Biomedical Engineering from University of Missouri-Columbia, Class 2017
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
-- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+- 📷 Content creater on [Bilibili](https://space.bilibili.com/1486916456?spm_id_from=333.1387.0.0). Passionate about photography
+- 🏂 Hobbies: snowboarding, archery, jogging, scuba diving, hiking
+- 🌄 Hiking Safety Ambassador, certified by Civil Aid Service Hong Kong
+- 🤿 SSI® Open Water Diver licensed, certified at Columbia, USA
+- 📫 E-mail: phuaab@connect.ust.hk
 
-## Social 
 
-| Platform                               | -                                                                                                                         |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| [Twitter](https://x.com/luoleiorg)     | ![Twitter Followers](https://badge.is26.com/twitter)                                                                      |
-| [YouTube](https://zuoluo.tv/youtube)   | ![YouTube Subscribers](https://badge.is26.com/youtube-subscribers) ![YouTube Views](https://badge.is26.com/youtube-views) |
-| [Bilibili](https://zuoluo.tv/bilibili) | ![哔哩哔哩](https://badge.is26.com/bilibili)      
+## Work Experience
+
+
+## Connect
+
+- [![Bilibili](https://static.is26.com/tmp/icons/bilibili.svg)](https://space.bilibili.com/1486916456?spm_id_from=333.1387.0.0)[Bilibili 哔哩哔哩: 花鹏Roc](https://space.bilibili.com/1486916456?spm_id_from=333.1387.0.0)
+- [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/phuaab)[Github: phuaab](https://github.com/phuaab)
+- [📧](https://www.linkedin.com/in/peng-hua-b799b8223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJh%2BYHu18QkqFigr7d4O1eQ%3D%3D)[LinkedIn](https://www.linkedin.com/in/peng-hua-b799b8223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJh%2BYHu18QkqFigr7d4O1eQ%3D%3D)
+- [📬](mailto:phuaab@connect.ust.hk)[E-mail](mailto:phuaab@connect.ust.hk)
