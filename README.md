@@ -1,7 +1,7 @@
 ## Hi there 👋 &nbsp; ![visitors](https://vbr.nathanchung.dev/badge?page_id=phuaab&color=00cf00)
 
 
-*Last manually updated:* `2025-08-01` <!-- change this everytime revised--> 
+*Last manually updated:* `2025-08-04` <!-- change this everytime revised--> 
 
 <!--
 **phuaab/phuaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,9 +43,13 @@ Here are some ideas to get you started:
 	</tr>
 </table> -->
 
+## Resume
+Click **[📝 HERE](https://github.com/phuaab/phuaab/blob/main/CV_Peng_Hua_HKUST_08042025.pdf)** to view my resume in detail.
+
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Nanomaterials & Chemical Engineer | PhD in Nanoscience​
-- 💼 𝙿𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝙰𝙸 𝙿𝙴 [<img src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.png?raw=true" height="30em" align="center" alt="PyTorch" title="PyTorch"/>](https://github.com/pytorch/pytorch) 𝚊𝚝 [<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="Meta" title="Meta"/>](https://github.com/facebook)
+- ⌨️ Nanomaterials & Chemical Engineer | PhD in Nanoscience​ & Technology
+- 💼   
+- 🎬 Content creater on Bilibili
 - 💜 [𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/CharaChorder) 𝚊𝚝 [CharaChorder <img src="https://avatars.githubusercontent.com/u/103693671?s=200&v=4" height="30em" align="center" alt="CharaChorder Logo" title="CharaChorder Logo"/>](https://CharaChorder.com)
 - 🎓 Bachelor of Chemical & Biomedical Engineering from University of Missouri-Columbia, Class 2017
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
