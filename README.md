@@ -55,8 +55,9 @@ Click **[📝 HERE](https://github.com/phuaab/phuaab/blob/main/CV_Peng_Hua_HKUST
 - 💼 Currently PhD in Hong Kong University of Science and Technology (HKUST)
 - 🎓 Master of Chemical & Biological Engineering from HKUST, Class 2020
 - 🎓 Bachelor of Chemical & Biomedical Engineering from University of Missouri-Columbia, Class 2017
+- 💻 Good at C, C#, C++, Python, Matlab, Java, Linux
 - 📷 Content creater on [Bilibili](https://space.bilibili.com/1486916456?spm_id_from=333.1387.0.0). Passionate about photography
-- 🏂 Hobbies: snowboarding, archery, jogging, scuba diving, hiking
+- 🏂 Hobbies: snowboarding, archery, jogging, scuba diving, hiking, cycling
 - 🌄 Hiking Safety Ambassador, certified by Civil Aid Service Hong Kong
 - 🤿 SSI® Specialty Cave Diver licensed, certified at Columbia, USA
 - 📫 E-mail: phuaab@connect.ust.hk
