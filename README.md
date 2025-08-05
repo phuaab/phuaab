@@ -46,10 +46,11 @@ Here are some ideas to get you started:
 	</tr>
 </table> -->
 
-## Resume
+## :newspaper: Resume 
+<!-- add https://ghfast.top to download correctly -->
 Click **[📝 HERE](https://github.com/phuaab/phuaab/blob/main/CV_Peng_Hua_HKUST_08042025.pdf)** to view my resume in detail.
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: About me	
 - ⌨️ Nanomaterials & Chemical Engineer | PhD in Nanoscience​ & Technology
 - 💼 Currently PhD in Hong Kong University of Science and Technology (HKUST)
 - 🎓 Master of Chemical & Biological Engineering from HKUST, Class 2020
@@ -61,7 +62,7 @@ Click **[📝 HERE](https://github.com/phuaab/phuaab/blob/main/CV_Peng_Hua_HKUST
 - 📫 E-mail: phuaab@connect.ust.hk
 
 
-## Research Experiences
+## :microscope: Research Experiences
 
 - Sep 2020 - Present: PhD research in microscopic kinetics (MD, FEM simluation), photolithography / Open to new opportunities
 - Sep 2021 - Jul 2021: Master research in calcium carbonate nucleation, HKUST, Hong Kong 
@@ -71,7 +72,7 @@ Click **[📝 HERE](https://github.com/phuaab/phuaab/blob/main/CV_Peng_Hua_HKUST
 
 
 
-## Connect
+## :fax:  Connect
 
 - [![Bilibili](https://static.is26.com/tmp/icons/bilibili.svg)](https://space.bilibili.com/1486916456?spm_id_from=333.1387.0.0)[Bilibili 哔哩哔哩: 花鹏Roc](https://space.bilibili.com/1486916456?spm_id_from=333.1387.0.0)
 - [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/phuaab)[Github: phuaab](https://github.com/phuaab)
