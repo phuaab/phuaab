@@ -1,3 +1,11 @@
+<!-- 粒子容器（背景层） -->
+<div id="particles-js" style="position:fixed; top:0; left:0; width:100%; height:100vh; z-index:-1;"></div>
+
+<!-- 原有内容容器（内容层） -->
+<div style="position:relative; z-index:10;">
+  <!-- 你的个人介绍内容（Hi there👋...） -->
+</div>
+
 ## Hi there 👋 &nbsp; ![visitors](https://vbr.nathanchung.dev/badge?page_id=phuaab&color=00cf00)
 
 
@@ -45,6 +53,7 @@ Here are some ideas to get you started:
 		</td>
 	</tr>
 </table> -->
+
 
 ## :newspaper: Resume 
 <!-- add https://ghfast.top to download correctly -->
