@@ -87,6 +87,8 @@ Click **[📝 HERE](https://github.com/phuaab/phuaab/blob/main/CV_Peng_Hua_HKUST
 - ### Processing Skills
 	Casting forming, coating, calcinations, photolithography, Nanoscribe 3D printing, optical tweezers, image recognition & segmentation, molecular dynamics (MD) simulation, multi-physics (optical, magnetic/electric field, fluid dynamics) simulation, 2D & 3D product rendering, animation rendering
 
+	
+
 
 ## :fax:  Connect
 
