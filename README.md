@@ -78,14 +78,14 @@ Click **[📝 HERE](https://github.com/phuaab/phuaab/blob/main/CV_Peng_Hua_HKUST
 - Jul 2015 - Jun 2016: Software developer at PHIANS, Shenzhen, China
 
 ## :wrench: Skills
-### Computer Languages
-C, C#, C++, Python, Java, Swift, Linux, MATLAB
+- ### Computer Languages
+  	C, C#, C++, Python, Java, Swift, Linux, MATLAB
 
-### Software Skills
-Aspen Plus, Sprint, SolidWorks, AutoCAD, COMSOL, SketchUp, Blender, LAMMPS, Adobe After Effects, Adobe Audition, Premiere
+- ### Software Skills
+	Aspen Plus, Sprint, SolidWorks, AutoCAD, COMSOL, SketchUp, Blender, LAMMPS, Adobe After Effects, Adobe Audition, Premiere
 
-### Processing Skills
-Casting forming, coating, calcinations, photolithography, Nanoscribe 3D printing, optical tweezers, image recognition & segmentation, molecular dynamics (MD) simulation, multi-physics (optical, magnetic/electric field, fluid dynamics) simulation, 2D & 3D product rendering, animation rendering
+- ### Processing Skills
+	Casting forming, coating, calcinations, photolithography, Nanoscribe 3D printing, optical tweezers, image recognition & segmentation, molecular dynamics (MD) simulation, multi-physics (optical, magnetic/electric field, fluid dynamics) simulation, 2D & 3D product rendering, animation rendering
 
 
 ## :fax:  Connect
