@@ -1,11 +1,13 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2FC4F7&vCenter=true&width=435&lines=Welcome+to+Peng's+channel)](https://git.io/typing-svg)
+
 ## Hi there 👋 &nbsp; ![visitors](https://vbr.nathanchung.dev/badge?page_id=phuaab&color=00cf00)
 
 
 *Last manually updated:* `2025-08-04` <!-- change this everytime revised--> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuaab)		
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuaab)		 -->
 
-![Peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuaab)
+<!-- ![Peng's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuaab) -->
 
 
 
