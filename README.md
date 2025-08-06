@@ -3,7 +3,7 @@
 
 *Last manually updated:* `2025-08-04` <!-- change this everytime revised--> 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuaab)		 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuaab)		
 
 
 <!--
