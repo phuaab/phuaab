@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ## :newspaper: Resume 
 <!-- add https://ghfast.top to download correctly -->
-Click **[📝 HERE](https://github.com/phuaab/phuaab/blob/main/CV_Peng_Hua_HKUST_08042025.pdf)** to view my resume in detail.
+Click **[📝 HERE](https://github.com/phuaab/phuaab/blob/main/CV_Peng_Hua_HKUST_08082025.pdf)** to view my resume in detail.
 
 ## :book: About me	
 - ⌨️ Nanomaterials & Chemical Engineer | PhD in Nanoscience​ & Technology
